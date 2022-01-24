@@ -1,0 +1,516 @@
+{
+    "href": "https://api.spotify.com/v1/users/aidanchandra/playlists?offset=0&limit=50",
+    "items": [
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5YyOL7j7ZOe8S1bv0TilRJ"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5YyOL7j7ZOe8S1bv0TilRJ",
+            "id": "5YyOL7j7ZOe8S1bv0TilRJ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27357c22b4204afa68087e03c2aab67616d0000b2737f213369d5265a60af5f7e82ab67616d0000b273838c8e2b7c01e762bec4b7bfab67616d0000b273b87da477ad10e87b09b88d1e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27357c22b4204afa68087e03c2aab67616d0000b2737f213369d5265a60af5f7e82ab67616d0000b273838c8e2b7c01e762bec4b7bfab67616d0000b273b87da477ad10e87b09b88d1e",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27357c22b4204afa68087e03c2aab67616d0000b2737f213369d5265a60af5f7e82ab67616d0000b273838c8e2b7c01e762bec4b7bfab67616d0000b273b87da477ad10e87b09b88d1e",
+                    "width": 60
+                }
+            ],
+            "name": "3",
+            "owner": {
+                "display_name": "aidanchandra",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/aidanchandra"
+                },
+                "href": "https://api.spotify.com/v1/users/aidanchandra",
+                "id": "aidanchandra",
+                "type": "user",
+                "uri": "spotify:user:aidanchandra"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "OTIsZDY3ZjIyYmJhOTA1ZDI4ODY1YmUwYTZlZDdiY2VlNzc3ZWQwYzU3ZQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5YyOL7j7ZOe8S1bv0TilRJ/tracks",
+                "total": 81
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5YyOL7j7ZOe8S1bv0TilRJ"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4vp2oPBSwQc8n00zZCETLh"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4vp2oPBSwQc8n00zZCETLh",
+            "id": "4vp2oPBSwQc8n00zZCETLh",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2731033d1a5ec257f747e2de115ab67616d0000b273b3c98b76fbcc317d6ec22fbaab67616d0000b273e111437ad4fd3f50c8461ec5ab67616d0000b273f5fb22d2cc313091d5af027b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2731033d1a5ec257f747e2de115ab67616d0000b273b3c98b76fbcc317d6ec22fbaab67616d0000b273e111437ad4fd3f50c8461ec5ab67616d0000b273f5fb22d2cc313091d5af027b",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2731033d1a5ec257f747e2de115ab67616d0000b273b3c98b76fbcc317d6ec22fbaab67616d0000b273e111437ad4fd3f50c8461ec5ab67616d0000b273f5fb22d2cc313091d5af027b",
+                    "width": 60
+                }
+            ],
+            "name": "vibin",
+            "owner": {
+                "display_name": "aidanchandra",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/aidanchandra"
+                },
+                "href": "https://api.spotify.com/v1/users/aidanchandra",
+                "id": "aidanchandra",
+                "type": "user",
+                "uri": "spotify:user:aidanchandra"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NDMsNzBiNGM0YjdlMTVjYTFlM2RkY2MxMzdiOWJhYmU1YjkxNjNiZGJkZA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4vp2oPBSwQc8n00zZCETLh/tracks",
+                "total": 39
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4vp2oPBSwQc8n00zZCETLh"
+        },
+        {
+            "collaborative": false,
+            "description": "Bigger than you",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2GAQq63ZWaoHUc55TOYBbi"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2GAQq63ZWaoHUc55TOYBbi",
+            "id": "2GAQq63ZWaoHUc55TOYBbi",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27359e842b6a3566a141f27f815ab67616d0000b273c7a392769f4714e5286d4177ab67616d0000b273e36f8ef1fb2f6553d96fbc64ab67616d0000b273f907de96b9a4fbc04accc0d5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27359e842b6a3566a141f27f815ab67616d0000b273c7a392769f4714e5286d4177ab67616d0000b273e36f8ef1fb2f6553d96fbc64ab67616d0000b273f907de96b9a4fbc04accc0d5",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27359e842b6a3566a141f27f815ab67616d0000b273c7a392769f4714e5286d4177ab67616d0000b273e36f8ef1fb2f6553d96fbc64ab67616d0000b273f907de96b9a4fbc04accc0d5",
+                    "width": 60
+                }
+            ],
+            "name": "> me",
+            "owner": {
+                "display_name": "aidanchandra",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/aidanchandra"
+                },
+                "href": "https://api.spotify.com/v1/users/aidanchandra",
+                "id": "aidanchandra",
+                "type": "user",
+                "uri": "spotify:user:aidanchandra"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NjQsYzRlMDVjZGRjM2FiMjJmNDhjODU5YjQ5Y2NkNDE5N2U2N2NjYmEzMA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2GAQq63ZWaoHUc55TOYBbi/tracks",
+                "total": 56
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2GAQq63ZWaoHUc55TOYBbi"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1xoChbyw3XZNwIEwUySgao"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1xoChbyw3XZNwIEwUySgao",
+            "id": "1xoChbyw3XZNwIEwUySgao",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27355e36b0dc5b0ef008fc85319ab67616d0000b273a840486253beffc63a436a2aab67616d0000b273c61b46cf682d7f0183fcb87cab67616d0000b273ccf311ffb86f4a8aee7c1586",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27355e36b0dc5b0ef008fc85319ab67616d0000b273a840486253beffc63a436a2aab67616d0000b273c61b46cf682d7f0183fcb87cab67616d0000b273ccf311ffb86f4a8aee7c1586",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27355e36b0dc5b0ef008fc85319ab67616d0000b273a840486253beffc63a436a2aab67616d0000b273c61b46cf682d7f0183fcb87cab67616d0000b273ccf311ffb86f4a8aee7c1586",
+                    "width": 60
+                }
+            ],
+            "name": "l",
+            "owner": {
+                "display_name": "aidanchandra",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/aidanchandra"
+                },
+                "href": "https://api.spotify.com/v1/users/aidanchandra",
+                "id": "aidanchandra",
+                "type": "user",
+                "uri": "spotify:user:aidanchandra"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NTgsYzcwNjdhODc0MGVjNjUxOThhN2M3ZjRiYTc5NmQyYmVlNWE2MjBmYQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1xoChbyw3XZNwIEwUySgao/tracks",
+                "total": 53
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1xoChbyw3XZNwIEwUySgao"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4apHsDjQJ0MuV9IF1BgD52"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4apHsDjQJ0MuV9IF1BgD52",
+            "id": "4apHsDjQJ0MuV9IF1BgD52",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2731033d1a5ec257f747e2de115ab67616d0000b27373fcd3730311f6ec3a4326ddab67616d0000b273806c160566580d6335d1f16cab67616d0000b273db91f8bfdf550f682f6efeb1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2731033d1a5ec257f747e2de115ab67616d0000b27373fcd3730311f6ec3a4326ddab67616d0000b273806c160566580d6335d1f16cab67616d0000b273db91f8bfdf550f682f6efeb1",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2731033d1a5ec257f747e2de115ab67616d0000b27373fcd3730311f6ec3a4326ddab67616d0000b273806c160566580d6335d1f16cab67616d0000b273db91f8bfdf550f682f6efeb1",
+                    "width": 60
+                }
+            ],
+            "name": "oldies",
+            "owner": {
+                "display_name": "aidanchandra",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/aidanchandra"
+                },
+                "href": "https://api.spotify.com/v1/users/aidanchandra",
+                "id": "aidanchandra",
+                "type": "user",
+                "uri": "spotify:user:aidanchandra"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjMsMDExZWNkMjhlMjU0OTMwNDRmOWU3Y2NkMWIxOTE2MWYwMjA0NGM0YQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4apHsDjQJ0MuV9IF1BgD52/tracks",
+                "total": 22
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4apHsDjQJ0MuV9IF1BgD52"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5ZG5HlPF3y9cBFkTPBNPN1"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5ZG5HlPF3y9cBFkTPBNPN1",
+            "id": "5ZG5HlPF3y9cBFkTPBNPN1",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2732801d9d5700d0395f046f3e9ab67616d0000b2738fbb75e14e62624616e005d5ab67616d0000b273aee0c185c5d1c10f574994a0ab67616d0000b273e0a626349f79b75c8d326995",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2732801d9d5700d0395f046f3e9ab67616d0000b2738fbb75e14e62624616e005d5ab67616d0000b273aee0c185c5d1c10f574994a0ab67616d0000b273e0a626349f79b75c8d326995",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2732801d9d5700d0395f046f3e9ab67616d0000b2738fbb75e14e62624616e005d5ab67616d0000b273aee0c185c5d1c10f574994a0ab67616d0000b273e0a626349f79b75c8d326995",
+                    "width": 60
+                }
+            ],
+            "name": "Vocals bb",
+            "owner": {
+                "display_name": "aidanchandra",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/aidanchandra"
+                },
+                "href": "https://api.spotify.com/v1/users/aidanchandra",
+                "id": "aidanchandra",
+                "type": "user",
+                "uri": "spotify:user:aidanchandra"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NjAsMmFmNDJkYWU3YWQ4N2M4ZmQxZWM5OTMxYTNjNjAwMDdlNzg2MWEyNQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5ZG5HlPF3y9cBFkTPBNPN1/tracks",
+                "total": 57
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5ZG5HlPF3y9cBFkTPBNPN1"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6zXpJmd7iGIagRVtMG8ckZ"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6zXpJmd7iGIagRVtMG8ckZ",
+            "id": "6zXpJmd7iGIagRVtMG8ckZ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27354a01535b21aed50a7bcb8d4ab67616d0000b2737cc94e776ebb63dd08c8422cab67616d0000b273aab2c3c3f1f3207137d915c9ab67616d0000b273e4e9c9dcb2867e3cb0099a5a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27354a01535b21aed50a7bcb8d4ab67616d0000b2737cc94e776ebb63dd08c8422cab67616d0000b273aab2c3c3f1f3207137d915c9ab67616d0000b273e4e9c9dcb2867e3cb0099a5a",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27354a01535b21aed50a7bcb8d4ab67616d0000b2737cc94e776ebb63dd08c8422cab67616d0000b273aab2c3c3f1f3207137d915c9ab67616d0000b273e4e9c9dcb2867e3cb0099a5a",
+                    "width": 60
+                }
+            ],
+            "name": "issok",
+            "owner": {
+                "display_name": "aidanchandra",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/aidanchandra"
+                },
+                "href": "https://api.spotify.com/v1/users/aidanchandra",
+                "id": "aidanchandra",
+                "type": "user",
+                "uri": "spotify:user:aidanchandra"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjYsZGZhYjQxMTkyMDhiYjBlZjk2OTc2YjBmY2YzYjFkNDExZjY4NmRmYw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6zXpJmd7iGIagRVtMG8ckZ/tracks",
+                "total": 23
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6zXpJmd7iGIagRVtMG8ckZ"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6LJawMaodygL4sNQLi1nkk"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6LJawMaodygL4sNQLi1nkk",
+            "id": "6LJawMaodygL4sNQLi1nkk",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2732e92f776279eaf45d14a33fdab67616d0000b2733762b5f8e91783e090d7d8eaab67616d0000b2735c8d9ad991d2a23eb039d8ddab67616d0000b273a5ea3573e8f48f5485760e2e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2732e92f776279eaf45d14a33fdab67616d0000b2733762b5f8e91783e090d7d8eaab67616d0000b2735c8d9ad991d2a23eb039d8ddab67616d0000b273a5ea3573e8f48f5485760e2e",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2732e92f776279eaf45d14a33fdab67616d0000b2733762b5f8e91783e090d7d8eaab67616d0000b2735c8d9ad991d2a23eb039d8ddab67616d0000b273a5ea3573e8f48f5485760e2e",
+                    "width": 60
+                }
+            ],
+            "name": "unattainable",
+            "owner": {
+                "display_name": "aidanchandra",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/aidanchandra"
+                },
+                "href": "https://api.spotify.com/v1/users/aidanchandra",
+                "id": "aidanchandra",
+                "type": "user",
+                "uri": "spotify:user:aidanchandra"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTUsN2ZmNzVkMzY5MGFiMWY4OTljMmU1ZGY4ZGYwNzVlOGYyNmQ1YTk5NQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6LJawMaodygL4sNQLi1nkk/tracks",
+                "total": 11
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6LJawMaodygL4sNQLi1nkk"
+        },
+        {
+            "collaborative": false,
+            "description": "hah fuck you",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4GB28wkdO5yFoxV7p0vkhh"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4GB28wkdO5yFoxV7p0vkhh",
+            "id": "4GB28wkdO5yFoxV7p0vkhh",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27306e9db385d0f3f8aec617963ab67616d0000b2736ad3f1dfdd6de6a2be1cfeb9ab67616d0000b273ae927fcaca18e2aa0ea9938aab67616d0000b273b65faad4e86af280cb2a84a5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27306e9db385d0f3f8aec617963ab67616d0000b2736ad3f1dfdd6de6a2be1cfeb9ab67616d0000b273ae927fcaca18e2aa0ea9938aab67616d0000b273b65faad4e86af280cb2a84a5",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27306e9db385d0f3f8aec617963ab67616d0000b2736ad3f1dfdd6de6a2be1cfeb9ab67616d0000b273ae927fcaca18e2aa0ea9938aab67616d0000b273b65faad4e86af280cb2a84a5",
+                    "width": 60
+                }
+            ],
+            "name": "take a look",
+            "owner": {
+                "display_name": "aidanchandra",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/aidanchandra"
+                },
+                "href": "https://api.spotify.com/v1/users/aidanchandra",
+                "id": "aidanchandra",
+                "type": "user",
+                "uri": "spotify:user:aidanchandra"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTQsMDM4ZWNlNDQ5ZTAxODY2NThhZjRkYTBlZDU5NDU1Y2JiMTFkZmUyYQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4GB28wkdO5yFoxV7p0vkhh/tracks",
+                "total": 10
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4GB28wkdO5yFoxV7p0vkhh"
+        },
+        {
+            "collaborative": false,
+            "description": "isnt it lovely",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5KFRrdkGWjFQZ1eub6VFpD"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5KFRrdkGWjFQZ1eub6VFpD",
+            "id": "5KFRrdkGWjFQZ1eub6VFpD",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27371179dd3ac3cba1d14920469ab67616d0000b27390c00af3fd8de6b9f510c1b8ab67616d0000b273efe812ae54f0698a32ccae14ab67616d0000b273f0b22473a87abf7907c258ba",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27371179dd3ac3cba1d14920469ab67616d0000b27390c00af3fd8de6b9f510c1b8ab67616d0000b273efe812ae54f0698a32ccae14ab67616d0000b273f0b22473a87abf7907c258ba",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27371179dd3ac3cba1d14920469ab67616d0000b27390c00af3fd8de6b9f510c1b8ab67616d0000b273efe812ae54f0698a32ccae14ab67616d0000b273f0b22473a87abf7907c258ba",
+                    "width": 60
+                }
+            ],
+            "name": "sad",
+            "owner": {
+                "display_name": "aidanchandra",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/aidanchandra"
+                },
+                "href": "https://api.spotify.com/v1/users/aidanchandra",
+                "id": "aidanchandra",
+                "type": "user",
+                "uri": "spotify:user:aidanchandra"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NDYsNjAyNThjODAyOWE1NzNkMTMwMjJhMWRjZjVhZTEwZTE0NWMzZDU3Nw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5KFRrdkGWjFQZ1eub6VFpD/tracks",
+                "total": 39
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5KFRrdkGWjFQZ1eub6VFpD"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4oOOXes9hSzFXg3BRRHwfW"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4oOOXes9hSzFXg3BRRHwfW",
+            "id": "4oOOXes9hSzFXg3BRRHwfW",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27306e9db385d0f3f8aec617963ab67616d0000b2739ebce3b41d5b9b86d8881be6ab67616d0000b273c783642cb844872e05b11a96ab67616d0000b273dfc30fae88b88c8c263a108e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27306e9db385d0f3f8aec617963ab67616d0000b2739ebce3b41d5b9b86d8881be6ab67616d0000b273c783642cb844872e05b11a96ab67616d0000b273dfc30fae88b88c8c263a108e",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27306e9db385d0f3f8aec617963ab67616d0000b2739ebce3b41d5b9b86d8881be6ab67616d0000b273c783642cb844872e05b11a96ab67616d0000b273dfc30fae88b88c8c263a108e",
+                    "width": 60
+                }
+            ],
+            "name": "blissful melancholy",
+            "owner": {
+                "display_name": "aidanchandra",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/aidanchandra"
+                },
+                "href": "https://api.spotify.com/v1/users/aidanchandra",
+                "id": "aidanchandra",
+                "type": "user",
+                "uri": "spotify:user:aidanchandra"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NjUsMWM5YmEyNDMxNGVmNDZlMDYyOGFjNjczMzEwYzBhZTA5MzdlZjFmNQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4oOOXes9hSzFXg3BRRHwfW/tracks",
+                "total": 60
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4oOOXes9hSzFXg3BRRHwfW"
+        }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 11
+}

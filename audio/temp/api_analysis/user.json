@@ -1,0 +1,15 @@
+{
+    "display_name": "aidanchandra",
+    "external_urls": {
+        "spotify": "https://open.spotify.com/user/aidanchandra"
+    },
+    "followers": {
+        "href": null,
+        "total": 28
+    },
+    "href": "https://api.spotify.com/v1/users/aidanchandra",
+    "id": "aidanchandra",
+    "images": [],
+    "type": "user",
+    "uri": "spotify:user:aidanchandra"
+}
