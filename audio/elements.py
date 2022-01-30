@@ -10,6 +10,7 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import os
 
+
 class Playlist:
     ...
 
@@ -25,6 +26,12 @@ class Search:
 class User:
     ...
 
+class Song_Collection(ABC):
+
+    @abstractmethod
+    def get_songs(self) -> List[Song]:
+        pass
+    
 class Song:
 
     def __init__(self, data, sp_manager) -> None:
@@ -88,11 +95,7 @@ class Song:
     def data(self):
         return self.track
 
-class Song_Collection(ABC):
 
-    @abstractmethod
-    def get_songs(self) -> List[Song]:
-        pass
 
 class Album(Song_Collection):
 

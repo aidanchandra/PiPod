@@ -60,11 +60,11 @@ class image_interface:
             delay = 50 
             def loopCapture():
 
-                #'''
+                
                 draw = ImageDraw.Draw(self.image)
                 draw.rectangle((0,0,self.width,self.height), outline=0, fill=0)
                 draw.polygon([(20, 20), (30, 2), (40, 20)], outline=255, fill=1)  #Up filled
-                #'''
+                
 
                 self.tkimg[0] = ImageTk.PhotoImage(self.image)
                 self.label.config(image=self.tkimg[0])
@@ -129,10 +129,12 @@ class image_interface:
 # root.mainloop()
 
 if __name__ == "__main__":
-    display_driver = image_interface()
 
-    image = display_driver.get_image()
+    image = Image.new('1', (128, 64))
     draw = ImageDraw.Draw(image)
-    draw.polygon([(20, 20), (30, 2), (40, 20)], outline=255, fill=1)  #Up filled
 
-    display_driver.update_image(image)
+    for i in range(0,100):
+        draw.rectangle((0,0,64,128), outline=0, fill=0)
+        draw.polygon([(20, 20), (30, 2), (40, 20+i)], outline=255, fill=1)  #Up filled
+        image.save("tmp.png","PNG")
+        time.sleep(1)

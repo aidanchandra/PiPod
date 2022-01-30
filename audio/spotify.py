@@ -3,13 +3,34 @@ import utility
 from pprint import pprint
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
+from spotipy.oauth2 import SpotifyOAuth
 import os
+
+
+scope = "user-follow-read," \
+        "user-library-read," \
+        "user-library-modify," \
+        "user-modify-playback-state," \
+        "user-read-playback-state," \
+        "user-read-currently-playing," \
+        "app-remote-control," \
+        "playlist-read-private," \
+        "playlist-read-collaborative," \
+        "playlist-modify-public," \
+        "playlist-modify-private," \
+        "streaming"
+
 
 class spotify_controller:
     def __init__(self) -> None:
-        cid = os.environ["SPOTIPY_CLIENT_ID"]
-        secret = os.environ["SPOTIPY_CLIENT_SECRET"]
-        sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials())
+        try:
+            cid = os.environ["SPOTIPY_CLIENT_ID"]
+            secret = os.environ["SPOTIPY_CLIENT_SECRET"]
+        except KeyError:
+            
+        print(cid)
+        print(secret)
+        sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
 
         # playlists = sp.user_playlists('spotify')
         # while playlists:
@@ -32,13 +53,13 @@ class spotify_controller:
         #     print(track_item["name"],"   ",track_item["album_group"],"   ",track_item["album_type"],"   ",track_item["total_tracks"])
         # utility.dump(track, "Example_Song_Data")
 
-        query = 'aidanchandra'
+        query = '1kkM2kJVrhixB11RJK6qH9?'
 
 
-        track = sp.current_user_playlists(query)
+        track = sp.track(query)
 
 
-        utility.dump(track, "api_analysis/current_user_playlists")
+        utility.dump(track, "api_analysis/track")
     
 
 if __name__ == '__main__':
