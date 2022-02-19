@@ -1,3 +1,4 @@
+import json
 import utility
 
 from pprint import pprint
@@ -27,10 +28,11 @@ class spotify_controller:
             cid = os.environ["SPOTIPY_CLIENT_ID"]
             secret = os.environ["SPOTIPY_CLIENT_SECRET"]
         except KeyError:
-            
-        print(cid)
-        print(secret)
-        sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
+            with open("creds.cache", encoding="utf-8") as f:
+                creds = json.load(f)
+                cid = creds["SPOTIPY_CLIENT_ID"]
+                secret = creds["SPOTIPY_CLIENT_SECRET"]
+        sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope, client_id=cid, client_secret=secret, redirect_uri="http://localhost/"))
 
         # playlists = sp.user_playlists('spotify')
         # while playlists:
@@ -53,13 +55,13 @@ class spotify_controller:
         #     print(track_item["name"],"   ",track_item["album_group"],"   ",track_item["album_type"],"   ",track_item["total_tracks"])
         # utility.dump(track, "Example_Song_Data")
 
-        query = '1kkM2kJVrhixB11RJK6qH9?'
+        query = '06YymGXynFMwcmcFjkk8s5?'
 
 
-        track = sp.track(query)
+        track = sp.playlist(query)
 
 
-        utility.dump(track, "api_analysis/track")
+        utility.dump(track, "api_analysis/user_playlist_specific")
     
 
 if __name__ == '__main__':

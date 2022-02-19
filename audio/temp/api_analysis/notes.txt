@@ -1,0 +1,41 @@
+1. Artist albums
+    Each item in "items" is an album WITHOUT songs, but with the following data
+
+        ALBUM:
+        Album ID
+        Total Tracks
+        Name
+        Images
+
+    When instantiating an album, do not instantly get the songs associated with it.
+
+2. Artist related artists
+    Each item in "artists" is an artist's profile
+
+        ARTIST:
+        Artist ID
+        Name
+        Images
+
+3. Artist top Tracks
+    Each item in "tracks" is a reference to 
+
+        SONG:
+        Song ID
+        Duration
+        Name
+
+        ALBUM:
+        ARTIST:
+
+
+
+Store elements in dicts
+
+artists { ID : object }
+
+When we discover a new song 
+
+artists[ID].add_song_ownership
+
+What to do if we try to instantiate an object whose ID already exists

@@ -1,11 +1,17 @@
-# Shows a user's playlists
+import http.client, urllib.parse
 
-import spotipy
-from spotipy.oauth2 import SpotifyOAuth
+conn = http.client.HTTPConnection('api.positionstack.com')
 
-scope = 'playlist-read-private'
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth())
+params = urllib.parse.urlencode({
+    'access_key': '0d2a35d484a0c57e8d1da1d92620249c',
+    'query': 'Copacabana',
+    'region': 'Rio de Janeiro',
+    'limit': 1,
+    })
 
-results = sp.current_user_playlists(limit=50)
-for i, item in enumerate(results['items']):
-    print("%d %s" % (i, item['name']))
+conn.request('GET', '/v1/forward?{}'.format(params))
+
+res = conn.getresponse()
+data = res.read()
+
+print(data.decode('utf-8'))
